@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
 
 
 
-static void Main()
+static void main()
 {
     Atleta primo = new Atleta();
     primo.nome = "SUPERSIUM";
@@ -29,7 +29,7 @@ static void Main()
 
 
 }
-Main();
+main();
 
 public class Atleta
 {
